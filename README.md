@@ -11,6 +11,7 @@
 
 4) Next, to avoid having to run command, install the ESLint extension from Microsoft.
 => Now the warnings/error will display in the code through the plugin.
+=> Note: Configure rules <- see commit details
 
 5) Fix workspace settings in VS code, to open the settings.json:
 a) Click: ctrl + shift + p
